@@ -1,4 +1,4 @@
-# Guessing Game
+## Guessing Game
 
 ## Goal
 
